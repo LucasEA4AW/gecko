@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../CallSigns/CallSigns.csproj" />
+  <Project Path="Gecko.csproj" />
+</Solution>
